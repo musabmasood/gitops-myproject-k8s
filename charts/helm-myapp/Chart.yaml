@@ -1,3 +1,3 @@
 name: helm-myapp
 version: 0.1.0
-appVersion: 0.0.0
+appVersion: 1.19-58c087f
